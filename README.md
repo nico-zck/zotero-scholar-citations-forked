@@ -1,3 +1,6 @@
+# New 
+Considering the forked repo was archived, it is better to follow the new standalone repo: https://github.com/nico-zck/zotero-scholar-citations
+
 # Note
 **This forked repo aims to make ZSC works better in China, and fix some minor problems by the way.**
 
